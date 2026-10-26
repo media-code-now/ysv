@@ -231,3 +231,8 @@ summary{font-weight:500;font-size:1.1rem}
 @media (max-width:760px){.rv-grid{grid-template-columns:1fr}}
 .map.wide{aspect-ratio:21/8;display:block}
 @media (max-width:760px){.map.wide{aspect-ratio:4/3}}
+
+/* label for illustrative (non-client) images */
+.img-label{font-size:.72rem;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);margin-top:.5rem}
+.svc-fig{margin:0 0 1.5rem}
+.svc-fig .svc-img{margin-bottom:0}
